@@ -1,0 +1,27 @@
+#slika1{
+
+	height: 100%;
+	width: 100%;
+}
+#videoImg{
+
+	
+}
+
+
+#logoImg{
+	width: 30%;
+	height: 30%;
+	float: left;
+}
+
+#footer{
+	margin: auto;
+	text-align: center;
+	font-size: 9px;
+	color: gray;
+
+}
+
+
+
